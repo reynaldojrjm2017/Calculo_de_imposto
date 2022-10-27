@@ -1,0 +1,14 @@
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\bin\Debug\netcoreapp3.1\CalculoDeAreaConstruida.exe
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\bin\Debug\netcoreapp3.1\CalculoDeAreaConstruida.deps.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\bin\Debug\netcoreapp3.1\CalculoDeAreaConstruida.runtimeconfig.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\bin\Debug\netcoreapp3.1\CalculoDeAreaConstruida.runtimeconfig.dev.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\bin\Debug\netcoreapp3.1\CalculoDeAreaConstruida.dll
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\bin\Debug\netcoreapp3.1\CalculoDeAreaConstruida.pdb
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.csproj.AssemblyReference.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.AssemblyInfoInputs.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.AssemblyInfo.cs
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.csproj.CoreCompileInputs.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.dll
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.pdb
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\CalculoDeAreaConstruida\obj\Debug\netcoreapp3.1\CalculoDeAreaConstruida.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBHGSKqpijkjZbfkOHJ7V8Fr5wWX79ed5dOuB521K4PNW6HI0niSNnn0zmk3Q8FDa7rj7cxCG/kuvg4Ks78bhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13a\\Desktop\\Bckp Junior\\TI360\\C#\\VisualStudio\\CalculoDeAreaConstruida\\CalculoDeAreaConstruida.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
